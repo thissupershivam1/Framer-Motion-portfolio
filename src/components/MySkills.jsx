@@ -112,7 +112,7 @@ const MySkills = ({ setThemeDark, theme }) => {
         <Description>
           <strong>Coding Platforms</strong>
           <p>
-          <a href="https://leetcode.com/shivam675maur/" target="_blank" >Leetcode</a> ,
+          <a href="https://leetcode.com/supershivam/" target="_blank" >Leetcode</a> ,
           <a href="https://github.com/thissupershivam1" target="_blank" >Github</a> ,
           <a href="https://auth.geeksforgeeks.org/user/shivam675maur/practice" target="_blank" >GeeksforGeeks</a> , 
           {/* <a href=" https://codeforces.com/profile" target="_blank" >Codeforces</a> . */}
